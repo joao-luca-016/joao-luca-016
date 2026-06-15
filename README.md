@@ -12,3 +12,4 @@ Tecnologias
 
 Conecte-se
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+https://www.linkedin.com/in/jo%C3%A3o-luca-aguiar-39b478310
