@@ -1,4 +1,5 @@
 Olá, eu sou João Luca 👋
+
 🩺 Background em Enfermagem, atuando com gestão de indicadores, escalas e relatórios em ambiente de saúde
 📊 Em desenvolvimento na área de Análise de Dados, com foco em SQL, Python e Power BI
 🚀 Projeto atual: modelagem de banco de dados relacional para gestão de clínicas de estética
