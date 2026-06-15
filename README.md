@@ -1,16 +1,13 @@
-## Hi there 👋
+Olá, eu sou João Luca 👋
+🩺 Background em Enfermagem, atuando com gestão de indicadores, escalas e relatórios em ambiente de saúde
+📊 Em desenvolvimento na área de Análise de Dados, com foco em SQL, Python e Power BI
+🚀 Projeto atual: modelagem de banco de dados relacional para gestão de clínicas de estética
 
-<!--
-**joao-luca-016/joao-luca-016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tecnologias
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Conecte-se
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
